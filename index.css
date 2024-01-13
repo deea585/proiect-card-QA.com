@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.qr-card {
+  max-width: 300px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+h3 {
+  margin: 0 0 10px;
+}
+
+p {
+  margin: 0;
+}
